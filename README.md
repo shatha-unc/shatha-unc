@@ -2,4 +2,3 @@
 - 👀 I’m interested in machine learning and data science.
 - 🌱 I’m currently learning data mining and data visualization.
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I love reading and horse riding.
